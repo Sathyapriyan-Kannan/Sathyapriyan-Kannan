@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sathyapriyan-Kannan
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently pursuing AWS Machine Learning Engineer Nano Degree from Udacity
+- 🌱 AWS Machine Learning Engineer Nanodegree Graduate from Udacity
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
